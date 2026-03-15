@@ -1,1 +1,1 @@
-print("Salut! Codul functioneaza perfect!")
+prin(Salut! Am stricat codul!)
